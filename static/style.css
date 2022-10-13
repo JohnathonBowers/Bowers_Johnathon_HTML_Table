@@ -1,0 +1,11 @@
+* {
+    border: 0px;
+    outline: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.users {
+    margin: 20px auto 0px auto;
+    width: 500px;
+}
